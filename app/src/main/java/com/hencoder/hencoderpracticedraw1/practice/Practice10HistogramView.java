@@ -26,5 +26,7 @@ public class Practice10HistogramView extends View {
 
 //        综合练习
 //        练习内容：使用各种 Canvas.drawXXX() 方法画直方图
+
+        //熟悉了之前学习的api的话，只有ui给出坐标颜色就很好实现了。
     }
 }
